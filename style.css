@@ -1,0 +1,22 @@
+
+.heading{
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    color: red;
+   
+}
+
+.links{
+    border: 4px solid black;
+    border-radius: 44px;
+}
+
+a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 2.3rem;
+}
